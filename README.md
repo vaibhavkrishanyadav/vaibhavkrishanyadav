@@ -7,13 +7,13 @@ A tech enthusiast worked on technologies like **Flutter**, **React** & **MERN** 
 
 [![Twitter: vaibhavkyadav20](https://img.shields.io/twitter/follow/vaibhavkyadav20?style=social)](https://twitter.com/vaibhavkyadav20)
 [![Linkedin: vaibhavkrishanyadav](https://img.shields.io/badge/-vaibhavkrishanyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/vaibhavkrishanyadav/)](http://www.linkedin.com/in/vaibhavkrishanyadav/)
-[![GitHub Tushar Ojha](https://img.shields.io/github/followers/vaibhavkrishanyadav?label=follow&style=social)](https://github.com/vaibhavkrishanyadav)
+[![GitHub Vaibhav Krishan Yadav](https://img.shields.io/github/followers/vaibhavkrishanyadav?label=follow&style=social)](https://github.com/vaibhavkrishanyadav)
 <!-- <img src="https://komarev.com/ghpvc/?username=vaibhavkrishanyadav" alt="vaibhavkrishanyadav" /> </br> -->
 </p>
 <table style="width:100%">
   <tr>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkrishanyadav&layout=compact" /></th>
-    <th><a href="https://github.com/tusharojha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkrishanyadav&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vaibhav's github stats" /></a></th>
+    <th><a href="https://github.com/vaibhavkrishanyadav/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkrishanyadav&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vaibhav's github stats" /></a></th>
   </tr>
 </table>
 
