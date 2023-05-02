@@ -12,8 +12,12 @@ A tech enthusiast worked on technologies like **Flutter**, **React** & **MERN** 
 </p>
 <table style="width:100%">
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkrishanyadav&layout=compact" /></th>
-    <th><a href="https://github.com/vaibhavkrishanyadav/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkrishanyadav&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vaibhav's github stats" /></a></th>
+    <th>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkrishanyadav&show_icons=true&hide_border=true&theme=tokyonight" alt="Vaibhav's github stats"/>
+    </th>
+    <th>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkrishanyadav&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Vaibhav's github stats" />
+    </th>
   </tr>
 </table>
 
